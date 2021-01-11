@@ -1,5 +1,10 @@
 
 
+import UI.ArrayPrinter;
+
+import UI.FirstArrayPrinter;
+import UI.SecondArrayPrinter;
+import UI.transposedArrayPrinter;
 import util.Array;
 
 import java.util.Scanner;
